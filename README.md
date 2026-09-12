@@ -39,10 +39,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafi2046&show_icons=true&theme=tokyonight&v=1" alt="Rafi2046's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi2046&theme=tokyonight" alt="Rafi2046's GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafi2046&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Rafi2046's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi2046&theme=dracula&hide_border=true" alt="Rafi2046's GitHub Streak" height="165" />
 </div>
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <picture>
