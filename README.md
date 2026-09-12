@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    I am a mobile application developer specializing in building cross-platform applications using <b>Flutter</b>. Currently working as a Flutter Developer at <b>Onesttech Software Solutions</b>, contributing to projects like <a href="https://play.google.com/store/apps/details?id=com.onesttech.budgetmint" target="_blank">Budget Mint</a> and the RUSHD app.
+    I am a mobile application developer specializing in building cross-platform applications using <b>Flutter</b>. Currently working as a Flutter Developer at <b>Onesttech Software Solutions</b>, contributing to live projects like <b>Budget Mint</b> (<a href="https://play.google.com/store/apps/details?id=com.onesttech.budgetmint" target="_blank">Android</a> | <a href="https://apps.apple.com/us/app/budget-mint-expense-tour-meal/id6797770841" target="_blank">iOS</a>) and the <b>RUSHD app</b> (<a href="https://play.google.com/store/apps/details?id=com.onesttech.rushd&hl=en" target="_blank">Android</a> | <a href="https://apps.apple.com/us/app/rushd-quran-tafsir-guidance/id6758621105" target="_blank">iOS</a>).
   </p>
 </div>
 
