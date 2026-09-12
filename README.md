@@ -42,3 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rafi2046&show_icons=true&theme=tokyonight" alt="Rafi2046's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi2046&theme=tokyonight" alt="Rafi2046's GitHub Streak" height="165" />
 </div>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafi2046/Rafi2046/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafi2046/Rafi2046/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafi2046/Rafi2046/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
