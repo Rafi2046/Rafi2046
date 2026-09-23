@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Ishmak%20Rahat%20Rafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Mobile%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ishmak%20Rahat%20Rafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Mobile%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation subtitle -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
 |---|---|---|---|
 | **Budget Mint** | Expense tracking, trip splitting & meal budgeting | Developer | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.budgetmint) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/budget-mint-expense-tour-meal/id6797770841) |
 | **RUSHD** | Quran Tafsir & guidance app | Team Contributor | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.rushd&hl=en) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/rushd-quran-tafsir-guidance/id6758621105) |
-| **Quran Audio** | Quran audio recitation app | Developer | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.quranaudio.app&hl=en) |
+| **Quran Audio** | Quran audio recitation app | Team Contributor | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.quranaudio.app&hl=en) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/quran-audio-mp3-tilawat/id6806233147) |
 
 </div>
 
@@ -51,7 +51,6 @@
 ### 🌐 Socials
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Bluesky-1a1a2e?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-X-1a1a2e?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Facebook-1a1a2e?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -116,4 +115,4 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
