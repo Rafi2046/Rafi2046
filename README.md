@@ -30,10 +30,11 @@
 
 <div align="center">
 
-| App | Description | Links |
-|---|---|---|
-| **Budget Mint** | Expense tracking, trip splitting & meal budgeting | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.budgetmint) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/budget-mint-expense-tour-meal/id6797770841) |
-| **RUSHD** | Quran Tafsir & guidance app | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.rushd&hl=en) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/rushd-quran-tafsir-guidance/id6758621105) |
+| App | Description | Role | Links |
+|---|---|---|---|
+| **Budget Mint** | Expense tracking, trip splitting & meal budgeting | Developer | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.budgetmint) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/budget-mint-expense-tour-meal/id6797770841) |
+| **RUSHD** | Quran Tafsir & guidance app | Team Contributor | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.rushd&hl=en) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/rushd-quran-tafsir-guidance/id6758621105) |
+| **Quran Audio** | Quran audio recitation app | Developer | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.quranaudio.app&hl=en) |
 
 </div>
 
@@ -42,16 +43,52 @@
 ### 👨‍💻 About Me
 
 - 🔭 Looking to collaborate on **open-source Flutter projects and innovative mobile apps**
-- 🌱 Currently learning **advanced database integration (SQLite, Firebase, Supabase) for mobile apps**
 - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-ishmakrahat02%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishmakrahat02@gmail.com)
 - ⚡ Fun fact: **My productivity is directly proportional to the volume of my music! 🎧**
 
 ---
 
-### 🚀 Languages & Tools
+### 🌐 Socials
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,cpp,c,python,git,github,figma,vscode" alt="skills"/>
+  <a href="#"><img src="https://img.shields.io/badge/-Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="mailto:ishmakrahat02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+**Frameworks & Tools**
+
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+**Databases & Backend**
+
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
 </div>
 
 ---
@@ -59,7 +96,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafi2046&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Rafi2046's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafi2046&show_icons=true&theme=dracula&hide_border=true" alt="Rafi2046's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi2046&theme=dracula&hide_border=true" alt="Rafi2046's GitHub Streak" height="165"/>
 </div>
 
