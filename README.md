@@ -51,12 +51,12 @@
 ### 🌐 Socials
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-X-1a1a2e?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Facebook-1a1a2e?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-1a1a2e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Discord-1a1a2e?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Pinterest-1a1a2e?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="https://www.linkedin.com/in/ishmakrafi/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ishmak_rafi47"><img src="https://img.shields.io/badge/-X-1a1a2e?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.facebook.com/ishmakrafi"><img src="https://img.shields.io/badge/-Facebook-1a1a2e?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/ishmak_rafi?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/-Instagram-1a1a2e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.pinterest.com/ishmakrahat/"><img src="https://img.shields.io/badge/-Pinterest-1a1a2e?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="https://unsplash.com/@ishmak_rafi"><img src="https://img.shields.io/badge/-Unsplash-1a1a2e?style=flat-square&logo=unsplash&logoColor=white" alt="Unsplash"/></a>
   <a href="mailto:ishmakrahat02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a2e?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
