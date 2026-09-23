@@ -51,14 +51,14 @@
 ### 🌐 Socials
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
-  <a href="mailto:ishmakrahat02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Bluesky-1a1a2e?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-X-1a1a2e?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Facebook-1a1a2e?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Instagram-1a1a2e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Discord-1a1a2e?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Pinterest-1a1a2e?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="mailto:ishmakrahat02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1a2e?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
@@ -69,25 +69,25 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Dart-1a1a2e?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-1a1a2e?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%2B%2B-1a1a2e?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white"/>
 
 **Frameworks & Tools**
 
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Android-1a1a2e?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-1a1a2e?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-1a1a2e?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VS%20Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 **Databases & Backend**
 
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQLite-1a1a2e?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=white"/>
 
 </div>
 
