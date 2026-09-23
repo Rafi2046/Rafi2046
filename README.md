@@ -77,6 +77,7 @@
 
 <img src="https://img.shields.io/badge/-Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Android-1a1a2e?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Android%20Studio-1a1a2e?style=flat-square&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-1a1a2e?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Figma-1a1a2e?style=flat-square&logo=figma&logoColor=white"/>
