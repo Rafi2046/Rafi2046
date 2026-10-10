@@ -13,6 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=Rafi2046&style=flat-square&color=8e2de2" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/Rafi2046?label=Followers&style=flat-square&color=8e2de2" alt="followers"/>
 <img src="https://img.shields.io/badge/Flutter%20Developer-Onesttech%20Software%20Solutions-4A00E0?style=flat-square&logo=flutter&logoColor=white" alt="current role"/>
+<a href="https://ishmakrafi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-8E2DE2?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/></a>
 
 </div>
 
@@ -51,6 +52,7 @@
 ### 🌐 Socials
 
 <div align="center">
+  <a href="https://ishmakrafi.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ishmakrafi/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/ishmak_rafi47"><img src="https://img.shields.io/badge/-X-1a1a2e?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.facebook.com/ishmakrafi"><img src="https://img.shields.io/badge/-Facebook-1a1a2e?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
