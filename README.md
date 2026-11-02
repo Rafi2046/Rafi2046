@@ -36,7 +36,7 @@
 | **Budget Mint** | Expense tracking, trip splitting & meal budgeting | Developer | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.budgetmint) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/budget-mint-expense-tour-meal/id6797770841) |
 | **RUSHD** | Quran Tafsir & guidance app | Team Contributor | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.rushd&hl=en) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/rushd-quran-tafsir-guidance/id6758621105) |
 | **Quran Audio** | Quran audio recitation app | Team Contributor | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.quranaudio.app&hl=en) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/quran-audio-mp3-tilawat/id6806233147) |
-
+| **FuelSync** | Vehicle mileage and trip log app | Developer | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onesttech.fuelsync&pcampaignid=web_share) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/fuelsync-mileage-trip-log/id6813072534) |
 </div>
 
 ---
